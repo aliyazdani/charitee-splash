@@ -18,3 +18,16 @@ time, mark, audio, video {
   font: inherit;
   vertical-align: baseline;
 }
+
+#hero {
+  #hero-nav {
+    nav {
+      display: inline-block;
+      #nav-links {
+        li {
+          display: inline-block;
+        }
+      }
+    }
+  }
+} 
